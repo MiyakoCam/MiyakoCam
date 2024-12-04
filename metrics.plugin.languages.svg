@@ -23,7 +23,7 @@
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="307.23169287186226" height="8" fill="#e34c26"/>
                     <rect mask="url(#languages-bar)" x="307.23169287186226" y="0" width="121.88518392315305" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="429.11687679501534" y="0" width="30.883123204984667" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="429.11687679501534" y="0" width="30.883123204984667" height="8" fill="#663399"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -40,7 +40,7 @@
                     </div>
                     <div class="field center no-wrap language">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                            <path fill="#563d7c" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                            <path fill="#663399" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                         </svg>
                         CSS
                     </div>
